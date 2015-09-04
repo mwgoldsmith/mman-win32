@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mman-test", "mman-test.vcxproj", "{9824D2F1-CE58-466C-B73D-9233CD1FE0BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mman", "mman.vcxproj", "{F118CC2E-9AED-4DB0-9BF4-028781D97AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9824D2F1-CE58-466C-B73D-9233CD1FE0BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9824D2F1-CE58-466C-B73D-9233CD1FE0BF}.Debug|Win32.Build.0 = Debug|Win32
+		{9824D2F1-CE58-466C-B73D-9233CD1FE0BF}.Release|Win32.ActiveCfg = Release|Win32
+		{9824D2F1-CE58-466C-B73D-9233CD1FE0BF}.Release|Win32.Build.0 = Release|Win32
+		{F118CC2E-9AED-4DB0-9BF4-028781D97AD1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F118CC2E-9AED-4DB0-9BF4-028781D97AD1}.Debug|Win32.Build.0 = Debug|Win32
+		{F118CC2E-9AED-4DB0-9BF4-028781D97AD1}.Release|Win32.ActiveCfg = Release|Win32
+		{F118CC2E-9AED-4DB0-9BF4-028781D97AD1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
